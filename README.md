@@ -36,7 +36,6 @@ The encryption key is stored securely to maintain the confidentiality of stored 
 ## Getting Started
 Clone the repository to your local machine.
 
-bash
 Copy code
 > git clone https://github.com/adityaxa/PasswordManager.git
 
