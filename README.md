@@ -38,7 +38,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-> git clone https://github.com/your-username/password-manager-python.git
+> git clone https://github.com/adityaxa/PasswordManager.git
 
 Run the Password Manager script.
 > python password_manager.py
